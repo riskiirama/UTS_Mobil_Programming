@@ -1,1 +1,1 @@
-![Uploading page all.png…]()
+![Page All](page%20all.png)

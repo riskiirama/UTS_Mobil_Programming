@@ -1,1 +1,1 @@
-![Page All](page%20all.png)
+![Page All](image.png)
